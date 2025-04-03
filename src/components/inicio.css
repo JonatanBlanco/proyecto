@@ -1,0 +1,15 @@
+.inicio-container {
+    display: flex;
+    align-items: center; /* Alinea verticalmente la imagen y el texto */
+    margin: 20px; /* Espacio alrededor del contenedor */
+  }
+  
+  .texto-inicio {
+    max-width: 600px; /* Limita el ancho del texto */
+    margin-right: 20px; /* Espacio entre el texto y la imagen */
+  }
+  
+  .imagen-inicio {
+    width: 150px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: auto; /* Mantiene la proporción de la imagen */
+  }
